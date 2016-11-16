@@ -7,9 +7,9 @@ A sample 12 Facter Application.
 Download:
 
 ```
-mkdir $GOPATH/src/github.com/kelseyhightower
-cd $GOPATH/src/github.com/kelseyhightower 
-git clone https://github.com/kelseyhightower/app.git
+mkdir $GOPATH/src/github.com/tmosleyiii
+cd $GOPATH/src/github.com/tmosleyiii 
+git clone https://github.com/tmosleyiii/app.git
 ```
 
 Generate TLS certificates:
